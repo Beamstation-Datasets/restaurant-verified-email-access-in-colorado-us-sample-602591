@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Colorado, US
 
-> Free BeamStation sample export with 10 rows and masked direct-contact fields.
+> Free BeamStation sample export with 341 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `602591` |
 | Location | Colorado |
 | Category | Restaurants |
-| Full dataset size | 2,345 records |
-| Free sample size | 10 records (0.43%) |
-| Last export | 2026-04-01T01:30:06.726659+00:00 |
+| Full dataset size | 3,414 records |
+| Free sample size | 341 records (9.99%) |
+| Last export | 2026-04-15T03:49:28.283700+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-colorado-us-sample-602591/releases/download/sample-latest/beamstation_602591_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
