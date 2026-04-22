@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f8261573-2427-44c5-94d5-ed087076ccb1",
+  "export_job_id": "bdeebd8d-eba2-44f9-86a4-e72542533e57",
   "id_short": 602591,
-  "published_at": "2026-04-18T19:30:09Z",
+  "published_at": "2026-04-22T19:58:22Z",
   "repo_name": "restaurant-verified-email-access-in-colorado-us-sample-602591",
   "sample_asset_name": "beamstation_602591_restaurants-us-co_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/602591/beamstation_602591_restaurants-us-co_SAMPLE_DIST.csv",
-  "sample_records": 341,
-  "sample_sha256": "f2bbf8a3e79ed56ce9182b54f6c0e0c79b55a0b09a9affe434ec8a80ee13136f",
-  "sample_size_bytes": 1376942,
-  "total_records": 3414
+  "sample_records": 257,
+  "sample_sha256": "30c93dbe1e8167653956982827575be8b068d6a4c0090c8985f32b9294610612",
+  "sample_size_bytes": 1049520,
+  "total_records": 2573
 }
